@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "WorkTest"
+    }
+  },
+  "defaultProject": "WorkTest",
+  "cli": {
+    "analytics": false
+  }
 }
